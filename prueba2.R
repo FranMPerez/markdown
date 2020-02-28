@@ -1,2 +1,3 @@
 library (usethis)
-use_git_config(user.name = "Francisco Perez", user.mail= "fperezch@alumnos.unex.es")
+use_git_config(user.name = "FranMPerez", user.email= "fperezch@alumnos.unex.es")
+
